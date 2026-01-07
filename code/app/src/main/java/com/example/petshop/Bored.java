@@ -4,7 +4,6 @@ import java.util.Date;
 
 public class Bored extends Mood {
     public Bored() {
-
     }
 
     public Bored(Date date) {

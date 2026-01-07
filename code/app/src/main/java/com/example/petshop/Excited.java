@@ -4,7 +4,6 @@ import java.util.Date;
 
 public class Excited extends Mood {
     public Excited() {
-
     }
 
     public Excited(Date date) {
