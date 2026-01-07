@@ -2,16 +2,15 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Elizabeth Seto`
+- **CCID:** `lseto1`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+- https://www.reddit.com/r/learnjava/comments/1erquwc/question_about_constructor_in_superclass_and/?rdt=52189
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `Ben Bui`    | `bbui` |
